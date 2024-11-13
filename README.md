@@ -1,16 +1,14 @@
-## Hi there 👋
-## hola
-<!--
-**A1EXF6A/A1EXF6A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Alex Guachi
 
-Here are some ideas to get you started:
+## 👨‍💻 Sobre Mí
+Soy Alex Guachi, desarrollador web y estudiante de Ingeniería en la Universidad Técnica de Ambato
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Educación
+- **Universidad Técnica de Ambato**
+  - Estudiante de Ingeniería
+
+## 📫 Contacto
+- **Email**: alexflakito15@gmail.com
+
+¡Gracias por visitar mi perfil! Estoy siempre abierto a nuevas oportunidades de colaboración y aprendizaje.
+
