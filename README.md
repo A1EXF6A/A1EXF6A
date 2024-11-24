@@ -10,7 +10,6 @@ Soy Alex Guachi, desarrollador web y estudiante de Ingeniería en la Universidad
 - *Lenguajes de Programación*: Java, SQL
 - *Bases de Datos*: MySQL
 - *Herramientas de Control de Versiones*: Git
-- *Networking*: VLAN, Trunking, Packet Tracer
 
 ## 📫 Contacto
 - **Email**: alexflakito15@gmail.com
