@@ -1,7 +1,7 @@
 # Alex Guachi
 
 ## 👨‍💻 Sobre Mí
-Soy Alex Guachi, desarrollador web y estudiante de Ingeniería en la Universidad Técnica de Ambato
+Soy Alex Guachi, estudiante de Ingeniería de sowtare en la Universidad Técnica de Ambato
 
 ## 🎓 Educación
 - **Universidad Técnica de Ambato**
